@@ -1,0 +1,6 @@
+requests
+pandas
+networkx
+matplotlib
+python-dotenv
+jupyter
