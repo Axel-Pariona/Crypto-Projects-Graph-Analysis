@@ -88,7 +88,7 @@ Carpeta destinada a almacenar visualizaciones generadas por el notebook, como gr
 Clonar el repositorio:
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/Axel-Pariona/Crypto-Projects-Graph-Analysis.git
 cd Crypto-Projects-Graph-Analysis
 ```
 
